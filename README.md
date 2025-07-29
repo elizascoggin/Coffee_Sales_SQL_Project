@@ -17,3 +17,12 @@ This beginner SQL project simulates a coffee shop’s daily sales using SQLite.
 3. Run the queries in `queries.sql`
 
 Made by Eliza Scoggin
+
+## Note
+
+The file `coffee_shop.db` is a SQLite database and cannot be viewed directly on GitHub.  
+To explore the data:
+
+1. Download the file
+2. Open it using [DB Browser for SQLite](https://sqlitebrowser.org/dl/)
+3. Run the queries from `queries.sql`
